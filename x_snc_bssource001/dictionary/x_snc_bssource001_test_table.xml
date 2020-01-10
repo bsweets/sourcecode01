@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test Table" max_length="40" name="x_snc_bssource001_test_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="String" max_length="40" name="string" type="string"/>
+    </element>
+</database>
